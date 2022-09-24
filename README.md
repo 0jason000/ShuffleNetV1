@@ -1,0 +1,2 @@
+# ShuffleNetV1
+基于MindSpore实现ShuffleNetV1
